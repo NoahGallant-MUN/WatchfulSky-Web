@@ -5,6 +5,31 @@
     height: 100%;
 }
 
+.top_bar {
+    display: inline-block;
+    padding-left: 8.7%;
+}
+
+.icon {
+    display: inline-block;
+}
+
+.name {
+    display: inline-block;
+    margin-top: 8%;
+    vertical-align: top;
+}
+
+.app_name {
+    font-size: 32px;
+    color: #e0dedc;
+}
+
+.platform_name {
+    font-size: 15;
+    color: #e0dedc;
+}
+
 .profiles_container {
 
     padding-left: 10%;
@@ -13,8 +38,9 @@
 
 .profile_container {
     width: 30%;
+    opacity: 0.9;
     height: 600px;
-    background: grey;
+    background: #e0dedc;
     display: inline-block;
     border-radius: 20px;
     box-sizing: border-box;
