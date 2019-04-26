@@ -18,15 +18,16 @@
     display: inline-block;
     border-radius: 20px;
     box-sizing: border-box;
+    padding: 2.5%;
 }
 
 .profile_photo {
-    width: 40%;
+    width: 50%;
     border-radius: 50%;
 }
 
 .profile_name {
-    
+
 }
 
 .spencer {
