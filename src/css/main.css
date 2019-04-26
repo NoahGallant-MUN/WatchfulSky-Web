@@ -81,8 +81,33 @@
     float: right;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1200px) {
+
+    .profiles_container {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
     .profile_container {
+        margin-top: 10px;
         display: block;
+        width: 100%;
+        height: 250px;
+    }
+
+    .profile_photo {
+        width: 20%;
+    }
+
+    .spencer {
+        float: none;
+    }
+
+    .john {
+        float: none;
+        left: 0px;
+    }
+    
+    .noah {
+        float: none;
     }
 }
