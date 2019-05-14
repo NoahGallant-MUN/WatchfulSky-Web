@@ -6,6 +6,7 @@
 .background {
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-color: black;
     overflow-x: hidden;
     margin: 0 auto;
 }
